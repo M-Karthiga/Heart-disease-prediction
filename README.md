@@ -32,6 +32,8 @@ This project explores whether machine learning can reliably flag at-risk patient
 | Recall | ~90% |
 | F1-Score | ~88% |
 
+<img width="576" height="516" alt="image" src="https://github.com/user-attachments/assets/a1ac14d9-072b-4224-8904-a05cd875290e" />
+
 ---
 
 ## Dataset
