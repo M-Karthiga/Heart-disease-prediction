@@ -1,10 +1,6 @@
 # Heart Disease Prediction
 
-> An end-to-end machine learning classification project to predict the presence of heart disease from clinical patient data. Built as part of Andrei Neagoie and DAniel's course on ML and DS in Udemy
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange.svg)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+> An end-to-end machine learning classification project to predict the presence of heart disease from clinical patient data. Built as part of Andrei Neagoie and Daniel's course on ML and DS in Udemy
 
 ---
 
